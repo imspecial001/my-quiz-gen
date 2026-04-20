@@ -531,4 +531,3 @@ const GeneratingView = () => (
   </div>
 );
 
-```
