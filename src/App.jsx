@@ -1,4 +1,3 @@
-```react
 import React, { useState, useEffect, useRef } from 'react';
 import { 
   BookOpen, 
@@ -536,5 +535,3 @@ export default function App() {
     </div>
   );
 }
-
-```
